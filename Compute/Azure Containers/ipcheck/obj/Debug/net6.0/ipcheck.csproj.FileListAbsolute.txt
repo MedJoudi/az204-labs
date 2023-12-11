@@ -1,0 +1,14 @@
+C:\Users\Joudi\desktop\az204\compute\Azure Containers\ipcheck\bin\Debug\net6.0\ipcheck.exe
+C:\Users\Joudi\desktop\az204\compute\Azure Containers\ipcheck\bin\Debug\net6.0\ipcheck.deps.json
+C:\Users\Joudi\desktop\az204\compute\Azure Containers\ipcheck\bin\Debug\net6.0\ipcheck.runtimeconfig.json
+C:\Users\Joudi\desktop\az204\compute\Azure Containers\ipcheck\bin\Debug\net6.0\ipcheck.dll
+C:\Users\Joudi\desktop\az204\compute\Azure Containers\ipcheck\bin\Debug\net6.0\ipcheck.pdb
+C:\Users\Joudi\desktop\az204\compute\Azure Containers\ipcheck\obj\Debug\net6.0\ipcheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joudi\desktop\az204\compute\Azure Containers\ipcheck\obj\Debug\net6.0\ipcheck.AssemblyInfoInputs.cache
+C:\Users\Joudi\desktop\az204\compute\Azure Containers\ipcheck\obj\Debug\net6.0\ipcheck.AssemblyInfo.cs
+C:\Users\Joudi\desktop\az204\compute\Azure Containers\ipcheck\obj\Debug\net6.0\ipcheck.csproj.CoreCompileInputs.cache
+C:\Users\Joudi\desktop\az204\compute\Azure Containers\ipcheck\obj\Debug\net6.0\ipcheck.dll
+C:\Users\Joudi\desktop\az204\compute\Azure Containers\ipcheck\obj\Debug\net6.0\refint\ipcheck.dll
+C:\Users\Joudi\desktop\az204\compute\Azure Containers\ipcheck\obj\Debug\net6.0\ipcheck.pdb
+C:\Users\Joudi\desktop\az204\compute\Azure Containers\ipcheck\obj\Debug\net6.0\ipcheck.genruntimeconfig.cache
+C:\Users\Joudi\desktop\az204\compute\Azure Containers\ipcheck\obj\Debug\net6.0\ref\ipcheck.dll

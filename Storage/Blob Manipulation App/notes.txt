@@ -1,0 +1,19 @@
+While still in the application directory, install the Azure Blob Storage client library for .NET package by using the dotnet add package command.
+
+dotnet add package Azure.Storage.Blobs
+
+Create a container
+To create the container first create an instance of the BlobServiceClient class, then call the CreateBlobContainerAsync method to create the container in your storage account. A GUID value is appended to the container name to ensure that it is unique. The CreateBlobContainerAsync method will fail if the container already exists.
+
+Upload blobs to a container
+The following code snippet gets a reference to a BlobClient object by calling the GetBlobClient method on the container created in the previous section. It then uploads the selected local file to the blob by calling the UploadAsync method. This method creates the blob if it doesn't already exist, and overwrites it if it does.
+
+List the blobs in a container
+List the blobs in the container by using the GetBlobsAsync method. In this case, only one blob has been added to the container, so the listing operation returns just that one blob.
+
+Download blobs
+Download the blob created previously to your local file system by using the DownloadAsync method. The example code adds a suffix of "DOWNLOADED" to the blob name so that you can see both files in local file system.
+
+Delete a container
+The following code cleans up the resources the app created by deleting the entire container using DeleteAsync. It also deletes the local files created by the app.
+

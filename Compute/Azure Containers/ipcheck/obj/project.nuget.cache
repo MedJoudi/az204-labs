@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oDCXPYuZPmX9IFSIciLCH1kGyFL1SYwOQisJ9Jvc7Igz1WoAV254s4fX6wfJUekgESh6Pav6Z1oqDiMh/U5yww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joudi\\desktop\\az204\\compute\\Azure Containers\\ipcheck\\ipcheck.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joudi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Joudi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Joudi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Joudi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

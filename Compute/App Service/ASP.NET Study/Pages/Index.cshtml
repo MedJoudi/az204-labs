@@ -1,0 +1,70 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4 text-info">Welcome</h1>
+</div>
+
+<div class="row align-items-center">
+    <div class="col">
+        <h1 class="display-6 text-info">Have an account ?</h1>
+        <form action="submit_login.php" method="POST">
+            <div class="container">
+                <!--Email-->
+                <div class="mb-3">
+                    <label for="exampleInputEmail1" class="form-label">Email address</label>
+                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+                </div>
+                <!--Password-->
+                <div class="mb-3">
+                    <label for="inputPassword" class="form-label">Password</label>
+                    <input type="password" id="inputPassword6" class="form-control" aria-describedby="passwordHelpInline">
+                    <div id="passwordHelp" class="form-text">Must be 8-20 characters long.</div>
+                </div>
+        
+                <!--Checkbox-->
+                <div class="mb-3 form-check">
+                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                    <label class="form-check-label" for="exampleCheck1">Keep me Login</label>
+                </div>
+                <!--Submit-->
+                <button type="submit" class="btn btn-info">Login</button>
+            </div>
+        </form>
+    </div>
+    <div class="col">
+        <img src="https://img.freepik.com/free-vector/wall-post-concept-illustration_114360-1022.jpg" class="img-fluid rounded-top" alt="">
+    </div>
+    <div class="col">
+        <h1 class="display-6 text-info">Don't have an account ?</h1>
+        <form action="submit_registration.php" method="POST">
+            <div class="container">
+                <!--Email-->
+                <div class="mb-3">
+                    <label for="exampleInputEmail1" class="form-label">Email address</label>
+                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+                </div>
+                <!--Password-->
+                <div class="mb-3">
+                    <label for="inputPassword" class="form-label">Password</label>
+                    <input type="password" id="inputPassword6" class="form-control" aria-describedby="passwordHelpInline">
+                    <div id="passwordHelp" class="form-text">Must be 8-20 characters long.</div>
+                </div>
+        
+                <!--Checkbox-->
+                <div class="mb-3 form-check">
+                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                    <label class="form-check-label" for="exampleCheck1">Remember me</label>
+                </div>
+                <!--Submit-->
+                <button type="submit" class="btn btn-info">Register</button>
+            </div>
+        </form>
+    </div>
+  </div>
+    
