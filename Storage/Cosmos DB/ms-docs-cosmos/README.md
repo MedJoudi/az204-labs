@@ -11,3 +11,18 @@ Illustration of icons indicating data being uploaded to the cloud and then queri
 You authored an application that used the .NET SDK for Azure Cosmos DB. The application created and managed databases, containers, and items. Your application also used the query language and LINQ method syntax to perform queries on items in Azure Cosmos DB.
 
 With the .NET SDK for Azure Cosmos DB for NoSQL, you were able to illustrate the best way to create, manage, and query data. The .NET SDK made it possible to share a concise sample with your development team that focused solely on the code necessary for them to be successful.
+
+<H2>References</H2>
+<h4>Quickstart</h4>
+Azure Cosmos DB for NoSQL SDK for .NET
+<h4>Developer reference</h4>
+Get started with Azure Cosmos DB for NoSQL and .NET
+Create a database in Azure Cosmos DB for NoSQL using .NET
+Create a container in Azure Cosmos DB for NoSQL using .NET
+Create an item in Azure Cosmos DB for NoSQL using .NET
+Read an item in Azure Cosmos DB for NoSQL using .NET
+Query items in Azure Cosmos DB for NoSQL using .NET
+<h4>Samples</h4>
+Examples for Azure Cosmos DB for NoSQL SDK for .NET
+<h4>Best practices</h4>
+Best practices for Azure Cosmos DB .NET SDK
