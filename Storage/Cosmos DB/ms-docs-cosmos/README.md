@@ -16,12 +16,12 @@ With the .NET SDK for Azure Cosmos DB for NoSQL, you were able to illustrate the
 <h4>Quickstart</h4>
 Azure Cosmos DB for NoSQL SDK for .NET
 <h4>Developer reference</h4>
-Get started with Azure Cosmos DB for NoSQL and .NET
-Create a database in Azure Cosmos DB for NoSQL using .NET
-Create a container in Azure Cosmos DB for NoSQL using .NET
-Create an item in Azure Cosmos DB for NoSQL using .NET
-Read an item in Azure Cosmos DB for NoSQL using .NET
-Query items in Azure Cosmos DB for NoSQL using .NET
+Get started with Azure Cosmos DB for NoSQL and .NET<br>
+Create a database in Azure Cosmos DB for NoSQL using .NET<br>
+Create a container in Azure Cosmos DB for NoSQL using .NET<br>
+Create an item in Azure Cosmos DB for NoSQL using .NET<br>
+Read an item in Azure Cosmos DB for NoSQL using .NET<br>
+Query items in Azure Cosmos DB for NoSQL using .NET<br>
 <h4>Samples</h4>
 Examples for Azure Cosmos DB for NoSQL SDK for .NET
 <h4>Best practices</h4>
